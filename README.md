@@ -27,10 +27,13 @@ The layers are overlaped with the container position relative and the 4 layers p
 ````
 
 The first animation is just opacity: Animation 1
+
 Here you can see the animation in CodePen:
 https://codepen.io/marchesinlorena/pen/OJjjBjv
 
+
 The second animation has movement and opacity: Animation 2
+
 Here you can see the animation in CodePen:
 https://codepen.io/marchesinlorena/pen/wvqqYqX
 
