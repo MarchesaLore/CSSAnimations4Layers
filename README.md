@@ -32,6 +32,7 @@ Here you can see the animation in CodePen:
 https://codepen.io/marchesinlorena/pen/OJjjBjv
 
 
+
 The second animation has movement and opacity: Animation 2
 
 Here you can see the animation in CodePen:
