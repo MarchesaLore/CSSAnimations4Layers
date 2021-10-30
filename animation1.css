@@ -1,0 +1,78 @@
+img{
+    width: 100%;
+  }
+  .animation-container{
+    position: relative;
+    max-width: 900px;
+    width: 100%;
+    height: auto;
+    margin:auto;
+  }
+  .animation-container > div{
+    position: absolute;
+    top:0;
+    left:0;
+  }
+  div.layer1 {
+    z-index: 1;
+  }
+  div.layer2 {
+    z-index: 2;
+    animation-name: layer2;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+  }
+  div.layer3 {
+    z-index: 3;
+    animation-name: layer3;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+  }
+  div.layer4 {
+    z-index: 4;
+    animation-name: layer4;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+  }
+  
+  @keyframes layer1 {
+    0% { 
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  @keyframes layer2 {
+    0% { 
+      opacity: 0;
+    }
+    75% { 
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  @keyframes layer3 {
+    0% { 
+      opacity: 0;
+    }
+    80% { 
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  @keyframes layer4 {
+    0% { 
+      opacity: 0;
+    }
+    95% { 
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
