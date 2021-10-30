@@ -11,7 +11,7 @@ and I bringing in one layer at the time using CSS animations.
 
 The layers are overlaped with the container position relative and the 4 layers position absolute:
 
-'''rd
+```rd
   .animation-container{
     position: relative;
     max-width: 900px;
@@ -24,7 +24,7 @@ The layers are overlaped with the container position relative and the 4 layers p
     top:0;
     left:0;
   }
-'''
+````
 
 first animation is just opacity: Animation 1
 https://codepen.io/marchesinlorena/pen/OJjjBjv
