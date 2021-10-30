@@ -14,7 +14,7 @@ The layers are overlaped with the container position relative and the 4 layers p
 ```rd
   .animation-container{
     position: relative;
-    max-width: 900px;
+    max-width: 1000px;
     width: 100%;
     height: auto;
     margin:auto;
