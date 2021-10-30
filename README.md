@@ -26,8 +26,11 @@ The layers are overlaped with the container position relative and the 4 layers p
   }
 ````
 
-first animation is just opacity: Animation 1
+The first animation is just opacity: Animation 1
+Here you can see the animation in CodePen:
 https://codepen.io/marchesinlorena/pen/OJjjBjv
 
-second animation has movement and opacity: Animation 2
+The second animation has movement and opacity: Animation 2
+Here you can see the animation in CodePen:
 https://codepen.io/marchesinlorena/pen/wvqqYqX
+
